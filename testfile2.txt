@@ -1,1 +1,2 @@
 testfile 2 to understand how multiple file commits are handled.
+added modification fro testing git commit message without command line
